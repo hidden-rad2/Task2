@@ -1,0 +1,1 @@
+{"schema_version":"0.1-draft","run_id":"team-example-ri-01","case_id":"SYNTHETIC-T2-0001","evidence_used":"RI","validity":"invalid","errors":[{"start":76,"end":102,"text":"right lower lobe pneumonia","type":"LOC-LAT"}],"corrected_causal_explanation":"The focal left lower lung airspace opacity supports the final impression of left lower lobe pneumonia.","confidence":0.94}
