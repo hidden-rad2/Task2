@@ -2,9 +2,10 @@
 
 ## Status
 
-This document defines schema version `0.1-draft`. The organizers should assign
-a stable release version after validating the first dataset export and sample
-submission.
+The current pre-release schema version is `0.1-draft`. It is provided for
+early system development and may be refined before the Task 2 dataset is
+released. The schema will be frozen as version `1.0` at dataset release.
+Any changes will be documented in `CHANGELOG.md`.
 
 ## General JSONL Requirements
 
